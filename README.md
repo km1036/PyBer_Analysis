@@ -14,7 +14,15 @@ To obtain the Summary DataFrame code, pictured below, five key metrics were calc
 
 <img src="https://github.com/katmarcin/PyBer_Analysis/blob/27f8262af7aedfdbed2aadbb2f2d22178d62d135/analysis/summary%20dataframe.png" width="580" height="200" />
 
-The table for the Summary Dataframe is visualized below when "pyber_summary_df" DataFrame is executed.
+The table for the Summary DataFrame is visualized below when "pyber_summary_df" DataFrame is executed. 
+
+We can determine from the table the following:
+
+* Urban rides make up more than 5 times the number of rural rides and almost 3 times that of surbuban total rides. 
+* Urban cities have more than 30 times the number of drivers in rural cities and five times that of suburban cities. 
+* Total fares in urban cities are ten times that of rural cities and almost twice the amount of total fares in suburban cities.
+* Average Fare Per Ride in rural cities is about $10 dollars more than urban cities and almost $4 dollars more than suburban cities.
+* Average Fare Per Driver is 3 times that of rural cities and about a third more than the Average Fare Per Driver in suburban cities.
 
 <img 
 src="https://github.com/katmarcin/PyBer_Analysis/blob/27f8262af7aedfdbed2aadbb2f2d22178d62d135/analysis/summary.png" width="580" height="200" />
@@ -23,7 +31,7 @@ As a final project, the CEO at PyBer requested a multiple-line chart to compare 
 
 <img src="https://github.com/katmarcin/PyBer_Analysis/blob/27f8262af7aedfdbed2aadbb2f2d22178d62d135/analysis/PyBer_fare_summary.png">
  
-The PyBer analysis allows us to visualize very significant differences in ride-sharing data among the different city types. It is clear that as an area becomes more urbanized, the average total fare increases consistently across the date range. The month has no effect on the average total fare when cross-comparing the city types as a whole. The highest average total fare for rural cities in the date range was about $500 US dollars, for the month of April. For suburban cities, the highest average total fare was about $1450 which was seen in February. That same average was approximately $2500 for urban cities which peaked both at the end of February and beginning of March. By comparing this data, we can deduce urban city total fares could be five times greater than their rural counterparts, while suburban cities remain a stagnant average between these two city types. What all three city types does share is two specific patterns where average total fare rises. This is seen when comparing the end-point averages of two date ranges, January-February and March-April. 
+The PyBer analysis allows us to visualize very significant differences in ride-sharing data among the different city types. It is clear that as an area becomes more urbanized, the average total fare increases consistently across the date range. The month has no effect on the average total fare when cross-comparing the city types as a whole. The highest average total fare for rural cities in the date range was about $500 dollars, for the month of April. For suburban cities, the highest average total fare was about $1450 which was seen in February. That same average was approximately $2500 for urban cities which peaked both at the end of February and beginning of March. By comparing this data, we can deduce urban city total fares could be five times greater than their rural counterparts, while suburban cities remain a stagnant average between these two city types. What all three city types does share is two specific patterns where average total fare rises. This is seen when comparing the end-point averages of two date ranges, January-February and March-April. 
 
 ## Summary 
 
